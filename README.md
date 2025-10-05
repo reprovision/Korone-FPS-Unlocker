@@ -2,6 +2,8 @@
 
 This tool uncaps your Korone FPS.
 Originally made by `sushality` on Discord
+<img width="1050" height="322" alt="Cobalt Gray Full" src="https://github.com/user-attachments/assets/8d400d03-1ccd-4836-abf1-0618c1743bad" />
+
 
 ## ✨ Features
 - Unlock FPS beyond the default limit  
