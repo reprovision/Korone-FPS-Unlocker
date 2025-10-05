@@ -15,7 +15,7 @@ Originally made by `sushality` on Discord
 
 ## 📁 Building
 1. Clone the repository and open the solution in **Visual Studio 2022**.
-2. Select the **configuration**: `Release | x86` or `Release | x64`.
+2. Select the **configuration**:  `Release | x64`.
 
 ## ⚠️ Disclaimer
 - This tool is **not officially affiliated** with Korone or its developers.  
