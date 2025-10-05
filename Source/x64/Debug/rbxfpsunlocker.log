@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312: 'type cast': conversion from 'T' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         with
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         [
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:             T=uint32_t
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(226,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(243,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(259,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(265,38): warning C4101: 'e': unreferenced local variable
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(437,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(527,1): warning C4715: 'WinMain': not all control paths return a value

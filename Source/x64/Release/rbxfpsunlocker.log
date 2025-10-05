@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312: 'type cast': conversion from 'T' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         with
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         [
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:             T=uint32_t
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(226,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(243,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(259,15): warning C4312: 'type cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(265,38): warning C4101: 'e': unreferenced local variable
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(437,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  procutil.cpp
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312: 'type cast': conversion from 'T' to 'const void *' of greater size
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         with
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         [
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:             T=uint32_t
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.h(71,86): warning C4312:         ]
+  (compiling source file 'procutil.cpp')
+  
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\procutil.cpp(141,45): warning C4101: 'e': unreferenced local variable
+  settings.cpp
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\settings.cpp(133,28): warning C4101: 'e': unreferenced local variable
+  sigscan.cpp
+  ui.cpp
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\ui.cpp(72,61): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\ui.cpp(264,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  version.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\Source\main.cpp(527): warning C4715: 'WinMain': not all control paths return a value
+  All 1269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rbxfpsunlocker.vcxproj -> C:\Users\Alper\Downloads\rbxfpsunlocker-4.4.4\x64\Release\rbxfpsunlocker.exe
