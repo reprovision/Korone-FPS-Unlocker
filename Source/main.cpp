@@ -130,7 +130,7 @@ struct RobloxProcess
 
 		if (!BlockingLoadModuleInfo())
 		{
-			NotifyError("pekorafpsunlocker Error", "Failed to get process base! Restart Pekora FPS Unlocker or, if you are on a 64-bit operating system, make sure you are using the 64-bit version of Pekora FPS Unlocker.");
+			NotifyError("pekorafpsunlocker Error", "Failed to get process base! Restart Korone FPS Unlocker or, if you are on a 64-bit operating system, make sure you are using the 64-bit version of Korone FPS Unlocker.");
 			retries_left = -1;
 			return false;
 		}
@@ -471,7 +471,7 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 	{
 		UI::ToggleConsole();
 
-		printf("Waiting for Pekora...\n");
+		printf("Waiting for Korone...\n");
 
 		HANDLE process;
 
@@ -504,7 +504,7 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 	{
 		if (CheckRunning())
 		{
-			MessageBoxA(NULL, "Pekora FPS Unlocker is already running", "Error", MB_OK);
+			MessageBoxA(NULL, "Korone FPS Unlocker is already running", "Error", MB_OK);
 		}
 		else
 		{
