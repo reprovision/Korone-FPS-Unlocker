@@ -17,11 +17,6 @@ jobs:
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
-    - name: Setup Visual Studio environment
-      uses: microsoft/setup-vsdevenv@v2
-      with:
-        vs-version: 'latest'
-
     - name: Build solution
       run: msbuild rbxfpsunlocker.sln /p:Configuration=Release
 
